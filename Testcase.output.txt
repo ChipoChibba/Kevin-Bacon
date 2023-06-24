@@ -1,0 +1,6 @@
+"C:\Program Files\Java\jdk-19\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\lib\idea_rt.jar=59052:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\Chipo Chibbamulilo\IdeaProjects\new\out\production\new" ActorMovie
+Vertices: [Bob, Alice, Nobody, Charlie, Nobody's Friend, Kevin Bacon, Dartmouth (Earl thereof)]
+Out edges: {Bob={Alice=[A movie], Charlie=[C movie], Kevin Bacon=[A movie]}, Alice={Bob=[A movie], Charlie=[D movie], Kevin Bacon=[A movie, E movie]}, Nobody={Nobody's Friend=[F movie]}, Charlie={Bob=[C movie], Alice=[D movie], Dartmouth (Earl thereof)=[B movie]}, Nobody's Friend={Nobody=[F movie]}, Kevin Bacon={Bob=[A movie], Alice=[A movie, E movie]}, Dartmouth (Earl thereof)={Charlie=[B movie]}}
+1.4
+
+Process finished with exit code 0

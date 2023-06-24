@@ -1,0 +1,22 @@
+"C:\Program Files\Java\jdk-19\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\lib\idea_rt.jar=58986:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\Chipo Chibbamulilo\IdeaProjects\new\out\production\new" GameInterface
+u
+Kevin Bacon
+Kevin Bacon is now the center of the acting universe, connected to 9235 actors with average separation 3.281024819855885
+
+Kevin Bacon game >
+
+Current Character: u
+>p
+Diane Keaton
+Diane Keaton's number is 2
+Diane Keaton appeared in [Something's Gotta Give (2003)] with Jack Nicholson
+Jack Nicholson appeared in [Few Good Men, A (1992)] with Kevin Bacon
+Current Character: p
+>p
+LeVar Burton
+LeVar Burton's number is 3
+LeVar Burton appeared in [Star Trek: Insurrection (1998), Star Trek: Nemesis (2002), Star Trek: First Contact (1996), Star Trek: Generations (1994)] with Patrick Stewart
+Patrick Stewart appeared in [Conspiracy Theory (1997)] with Julia Roberts
+Julia Roberts appeared in [Flatliners (1990)] with Kevin Bacon
+Current Character: p
+>

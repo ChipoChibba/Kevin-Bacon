@@ -1,0 +1,20 @@
+"C:\Program Files\Java\jdk-19\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\lib\idea_rt.jar=59170:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\Chipo Chibbamulilo\IdeaProjects\new\out\production\new" GameInterface
+u
+Kevin Bacon
+Kevin Bacon is now the center of the acting universe, connected to 7 actors with average separation 1.4
+
+Kevin Bacon game >
+
+Current Character: u
+>p
+Charlie
+Charlie's number is 2
+Charlie appeared in [C movie] with Bob
+Bob appeared in [A movie] with Kevin Bacon
+Current Character: p
+>p
+Bob
+Bob's number is 1
+Bob appeared in [A movie] with Kevin Bacon
+Current Character: p
+>
